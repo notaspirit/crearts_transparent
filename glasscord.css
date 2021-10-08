@@ -59,7 +59,7 @@
     --purple-primary: rgba(89, 54, 149);
     --purple-secondary: rgba(116, 79, 177);
     --purple-tertiary: rgba(62, 32, 124);
-    --background-primary: rgba(51, 57, 73, var(--transparency-primary));
+    --background-primary: rgba(45, 45, 45, var(--transparency-primary));
     --background-secondary: rgba(42, 48, 64, var(--transparency-secondary));
     --background-tertiary: rgba(33, 40, 55, var(--transparency-tertiary));
     --background-secondary-alt: rgba(33, 40, 55, var(--transparency-tertiary));
